@@ -21,7 +21,7 @@ pd2builder Contributors
   * Payday 2 Verified Professional
   * Bored man, Portable Scrapper
 
-* **[Hondrus](https://steamcommunity.com/profiles/76561198091232093/)**
+* **[Hondrus](https://github.com/hondrus31)**
   * Watermarking resources since 2019 
   * Graphics and resources
 
